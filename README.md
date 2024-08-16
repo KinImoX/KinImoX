@@ -5,7 +5,7 @@ Algunos Badges obtenidos en TryHackMe. <br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Mr.KinimoX.png" alt="TryHackMe">
 
 Mis redes sociales: <br>
-<a href="https://www.linkedin.com/in/-b/](https://www.linkedin.com/in/-bryan-martinez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/-bryan-martinez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
   <!--
 **KinImoX/KinImoX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
